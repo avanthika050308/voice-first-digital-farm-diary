@@ -1,26 +1,19 @@
 # 🌾 Voice-First Digital Farm Diary for Regional-Language Farmers
 
 <p align="center">
-  <strong>TECHKATHON 2K26 • AGR-S04 • AgriTech & Smart Farming</strong>
+  <strong>  AgriTech & Smart Farming</strong>
 </p>
 
 <p align="center">
   A voice-first concept for helping farmers maintain digital farm records using regional-language speech.
 </p>
 
----
 
-## 🏆 Hackathon Information
 
-| Item | Details |
-|---|---|
-| Event | TECHKATHON 2K26 |
-| Problem ID | AGR-S04 |
-| Team Name | Team Quadrix |
 | Institution | KPR Institute of Engineering and Technology |
 | Theme | AgriTech & Smart Farming |
 | Solution Type | Software-Based Solution |
-| Date | 29 September 2026 |
+
 
 ## 📌 Project Overview
 
@@ -153,35 +146,6 @@ Possible future extensions include:
 - Cloud-based farm records
 - Voice-based retrieval of previous records
 - Farm expense analytics
-- Integration with smart farming technologies
-
-## 👥 Team
-
-**Team Quadrix**
-
-| Member | Role |
-|---|---|
-| Team Member 1 | To be updated |
-| Team Member 2 | To be updated |
-| Team Member 3 | To be updated |
-| Team Member 4 | To be updated |
-
-## 📂 Repository Contents
-
-- `Problem-Statement.md` — problem statement and hackathon details
-- `Project-Concept.md` — project concept
-- `Objectives.md` — project objectives
-- `Proposed-Solution.md` — proposed solution
-- `System-Workflow.md` — system workflow
-- `Future-Scope.md` — future development possibilities
-
-## 📌 Current Development Stage
-
-**TRL-1 — Concept Stage**
-
-This repository contains the project idea and concept documentation. Prototype code can be added when the project moves to a higher Technology Readiness Level.
-
----
-
-### 🌱 Team Quadrix
+- Integration with smart farming technology
+  
 **Voice-first technology for simpler digital farm records.**
